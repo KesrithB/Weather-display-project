@@ -42,7 +42,6 @@ void setup() {
   Serial.println(WiFi.localIP());
 
   Serial.println("Timer set to 10 seconds (timerDelay variable).");
-
 }
 
 void loop() {
